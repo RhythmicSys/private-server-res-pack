@@ -1,9 +1,6 @@
 {
-  
-"pack": {
-    
-	"pack_format": 9,
-    
-	"description": "§3Emojis§f: Twemoji §dBy§f: Spotwich"
+  "pack": {
+    "pack_format": 9,
+    "description": "Pack for DP community Server"
   }
 }
